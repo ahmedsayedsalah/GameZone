@@ -17,7 +17,7 @@ GameZone is a A web application for managing and exploring a collection of video
 - Tag Helper
 - Uses the Vapor theme from the Bootswatch website
 - HTML, CSS, and AJAX using jQuery
-- Repository Pattern
+- Service Pattern
 - ViewModel
 - Upload images to the server
 - Client-side validation (validating file extensions and size)
